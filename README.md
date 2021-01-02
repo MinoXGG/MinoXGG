@@ -6,12 +6,14 @@ I'm MinoX, a old developer from Morocco.
 
 - 👥 Esport Experience 3 years with [skiils](https://minox.uwu.ai/)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-615-blue)
 
-## 🌌 My Stats : 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MinoXGG&show_icons=true&hide_border=true&theme=tokyonight">
 
-### 🏠 My Activity:
+
+
+### 🏠 - Activity:
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/478543553530953728?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/478543553530953728)
@@ -20,7 +22,7 @@ I'm MinoX, a old developer from Morocco.
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/190916650143318016)](https://dev.discordprofiles.me/openspotify/478543553530953728)
 
 
-### 📫 How to reach me:
+### 📎 - Links:
 
 - Website: [minoxgg.me](https://minoxgg.uwu.ai)
 - Discord: [MinoX.#6853](https://discord.com/users/478543553530953728)
