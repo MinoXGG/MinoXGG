@@ -1,3 +1,12 @@
+
+## Hey! 👋
+I'm MinoX, a old developer from Morocco.
+
+- 💼 Owner & Admin at [ApexBot](https://discord.gg/42uhvWWbnJ)
+
+- 👥 Esport Experience 3 years with [skiils](https://minox.uwu.ai/)
+
+
 ## 🌌 My Stats : 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MinoXGG&show_icons=true&hide_border=true&theme=tokyonight">
