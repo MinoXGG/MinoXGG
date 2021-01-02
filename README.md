@@ -7,10 +7,10 @@ I'm MinoX, a old developer from Morocco.
 - 👥 Esport Experience 3 years with [skiils](https://minox.uwu.ai/)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-615-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
-
-
+![GitHub followers](https://img.shields.io/github/followers/MinoXGG?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://minoxgg.uwu.ai)](https://minoxgg.uwu.ai/)
+![](https://visitor-badge.glitch.me/badge?page_id=MinoXGG.MinoXGG)
 
 
 ### 🏠 - Activity:
