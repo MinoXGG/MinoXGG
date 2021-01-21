@@ -1,5 +1,8 @@
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> a cat in space ...
-![Discord](https://discord.c99.nl/widget/theme-1/478543553530953728.png)
-
-
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/478543553530953728?simple=true)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/478543553530953728)](https://dev.discordprofiles.me/openspotify/478543553530953728)
+[![Twitter](https://img.shields.io/badge/Twitter-@MinoXGG-00acee)](https://twitter.com/MinoXGG) 
+![Profile Views](https://komarev.com/ghpvc/?username=MinoXGG)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/478543553530953728)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/478543553530953728)
+![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/478543553530953728)
